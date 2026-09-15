@@ -31,10 +31,13 @@ Task2
 Task-02 — Mall Customer Dataset 
 Objective
 To perform data cleaning and exploratory data analysis on mall customer data, identify relationships between demographic and spending variables, and discover meaningful patterns and trends in customer behavior.
+
 Data Cleaning
 The dataset is checked for missing values and duplicate records. Numerical missing values are handled using the median, while categorical missing values are handled using the mode. Duplicate records are removed before performing EDA.
+
 EDA
 EDA is performed using descriptive statistics, histograms, bar charts, scatter plots and a correlation heatmap. These visualizations help understand customer age, income, gender and spending behavior.
+
 Key Relationships
 The main relationships investigated are:
 Age vs Spending Score
@@ -42,6 +45,8 @@ Annual Income vs Spending Score
 Age vs Annual Income
 Gender vs Spending Score
 Gender vs Annual Income
+
+
 Conclusion
 The Mall Customer dataset provides useful information for understanding customer demographics and spending behavior. Data cleaning ensures that the dataset is suitable for analysis, while EDA helps identify distributions, relationships and trends. The relationship between annual income and spending score is particularly useful for understanding different customer groups and can support future customer segmentation and targeted marketing strategies.
 
