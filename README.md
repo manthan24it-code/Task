@@ -7,11 +7,11 @@ Each task uses a different real-world dataset and focuses on solving a specific 
 Technologies Used:
 Python,
 Pandas
-NumPy
-Matplotlib
-Scikit-learn
-Jupyter/IDLE
-GitHub
+NumPy,
+Matplotlib,
+Scikit-learn,
+Jupyter/IDLE,
+GitHub.
 
 Projects
 
